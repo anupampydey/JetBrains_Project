@@ -1,0 +1,382 @@
+The New York Times - Breaking News, World News & MultimediaContinue reading the main storySkip to contentSkip to site indexEnglishEspañol中文Today’s PaperWorldU.S.PoliticsN.Y.BusinessOpinionTechScienceHealthSportsArtsBooksStyleFoodTravelMagazineT MagazineReal EstateVideoWorldU.S.PoliticsN.Y.BusinessOpinionTechScienceHealthSportsArtsBooksStyleFoodTravelMagazineT MagazineReal EstateVideoThe Book Review PodcastJeffrey Toobin on President Trump; Elena Ferrante’s new novel.Listen to ‘The Argument’Opinion columnists on the political fallout of urban violence.Listen to ‘Nice White Parents’Is this a blueprint for real, systemic change?A New Front in America’s Pandemic: College TownsThe coronavirus is spiking around campuses from Texas to Iowa to North Carolina as students return.The potential spread of the virus has exacerbated tensions as towns have tried to balance economic dependence with public health fears.How Your Labor Day Blast Could Make Pandemic Life Worse in the FallAfter past holiday weekends caused spikes in Covid-19 cases, public health officials are urging people to keep gatherings small, outdoors and masked. 
+
+								Coronavirus Cases at U.S. Colleges
+							
+
+
+
+Search for colleges here
+
+
+	
+.g-tab-fader {
+	position: relative;
+	margin: 0 auto;
+	max-width: 600px;
+	width: 100%;
+}
+.g-tab-fader-inner {
+	height: 0;
+	padding-bottom: 100%;
+	width: 100%;
+}
+
+@media all and (min-width: 600px) {
+
+	.g-tab-fader-inner {
+		padding-bottom: 66.66%;
+	}
+}
+
+.g-photo-wrap {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	transform: translate3d(0,0,0);
+	width: 100%;
+}
+
+.g-photo-wrap .desktop {
+	display: block;
+}
+
+@media screen and (max-width: 600px) {
+	.g-photo-wrap .desktop {
+		display: none;
+	}
+}
+
+.g-photo-wrap .mobile {
+	display: none;
+}
+
+@media screen and (max-width: 600px) {
+	.g-photo-wrap .mobile {
+		display: block;
+	}
+}
+
+.g-photo-wrap img {
+	left: 0;
+	height: 100%;
+	object-fit: cover;
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	transition: opacity 0.9s;
+	transform: translate3d(0,0,0);
+	width: 100%;
+}
+.g-timestamp,
+.g-caption {
+	box-sizing: border-box;
+	color: #fff;
+	font-family: "nyt-franklin", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	letter-spacing: 0.02em;
+	opacity: 0;
+	padding: 20px;
+	position: absolute;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.25), 1px 1px 1px rgba(0,0,0,0.35), -1px -1px 1px rgba(0,0,0,0.35);
+	
+	transition: opacity 0.35s ease-in-out;
+	transition-delay: 0s;
+	width: 100%;
+	z-index: 99;
+/*	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;*/
+}
+
+@media all and (min-width: 740px) {
+    .g-timestamp,
+	.g-caption {
+        font-size: 18px;
+    }
+}
+
+.g-timestamp {
+	font-weight: 700;
+	transition-delay: 0.35s;
+	top: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.g-caption {
+	bottom: -5px;
+	line-height: 1;
+	transition-delay: 0.9s;
+}
+.g-caption p {
+	display: inline;
+	/*font-family: nyt-cheltenham, georgia, serif;*/
+	font-size: 14px;
+	line-height: 1.25;
+	margin-bottom: 0.25em;
+}
+@media all and (min-width: 740px) {
+	.g-caption p {
+		font-size: 16px;
+		line-height: 1.25;
+		margin-bottom: 0.5em;
+	}
+}
+.g-photo-wrap .g-credit {
+	color: rgba(255,255,255, 0.75);
+	display: inline-block;
+	font-size: 11px;
+}
+@media all and (min-width: 740px) {
+	.g-photo-wrap .g-credit {
+		font-size: 12px;
+	}
+}
+
+.g-photo-wrap.g-photo-active img {
+	opacity: 1;
+}
+.g-photo-wrap.g-photo-active .g-timestamp {
+	opacity: 1;
+}
+.g-photo-wrap.g-photo-active .g-caption {
+	opacity: 1;
+}
+
+
+
+
+Brooklyn, N.Y.
+
+
+
+
+
+
+
+
+						
+							
+								Stephanie Keith/Getty
+							
+						
+					
+
+
+
+Santa Monica, Calif.
+
+
+
+
+
+
+
+
+						
+							
+								Mario Tama/Getty
+							
+						
+					
+
+
+
+Lalitpur, Nepal
+
+
+
+
+
+
+
+
+						
+							
+								Prakash Mathema/AFP — Getty
+							
+						
+					
+
+
+
+Hebron, West Bank
+
+
+
+
+
+
+
+
+						
+							
+								Hazem Bader/AFP — Getty
+							
+						
+					
+
+
+
+Budapest
+
+
+
+
+
+
+
+
+						
+							
+								Bme/EPA, via Shutterstock
+							
+						
+					
+
+
+
+London
+
+
+
+
+
+
+
+
+						
+							
+								Henry Nicholls/Reuters
+							
+						
+					
+
+
+
+Jakarta, Indonesia
+
+
+
+
+
+
+
+
+						
+							
+								Ajeng Dinar Ulfiana/Reuters
+							
+						
+					
+
+
+
+Gauhati, India
+
+
+
+
+
+
+
+
+						
+							
+								Anupam Nath/AP
+							
+						
+					
+
+
+
+Salt Lake City
+
+
+
+
+
+
+
+
+						
+							
+								Rick Bowmer/AP
+							
+						
+					
+
+
+
+
+
+	
+	var images = document.querySelectorAll('.g-tab-fader .g-photo-wrap'),
+		counter = 0;
+
+	var hasCaptions = false;
+	var speed = hasCaptions ? 7500 : 5000
+
+	setInterval(function(){
+		var prev = counter
+
+		counter++
+		if(counter > images.length-1) counter = 0
+		images[counter].classList.add('g-photo-active')
+		// console.log(prev, counter)
+		setTimeout(function(){
+			// console.log(prev, counter)
+			images[prev].classList.remove('g-photo-active')
+		}, 250)
+	}, speed)
+
+
+
+
+								New Reported Cases in the U.S.
+							
+
+
+
+See the U.S. hot spots
+At-Home Coronavirus Tests Remain ‘Aspirational’The tests are not very good at picking up low-level infections, but they are cheap and convenient, returning results in minutes. Here’s the latest.Tracking the Coronavirus ›United States ›
+On Sept. 5
+14-day change
+Trend
+New cases
+42,080
+-7%
+
+New deaths
+711
+			-15%
+
+Where cases are
+		highest
+		per capita
+	
+				N.D.
+			
+				S.D.
+			
+				Iowa
+			
+				Ala.
+			
+				Mo.
+			
+				Tenn.
+			
+				Miss.
+			
+				Okla.
+			
+				Ark.
+			
+				Kan.
+			
+				S.C.
+			
+				Ky.
+			U.S. hot spots ›
+Worldwide ›
+In Final Stretch, Biden Defends Lead Against Trump’s OnslaughtPresident Trump is attempting to overtake Joe Biden with a strategy of racial polarization as the campaign enters an intense phase.President Trump is using Westchester County, N.Y., to stir up suburban fears.Democrats Belatedly Start Operation to Share Information on VotersThe Democrats have been far behind Republicans on compiling and sharing information that can be used by campaigns, state parties and super PACs.After Unrest, Kenosha Wrestles With What Comes NextSome residents saw the shooting of Jacob Blake as proof that policing in the Wisconsin city needed an overhaul. Others spoke of getting back to normal.A worker blasts graffiti from the pavement at Civic Center Park in Kenosha, Wis., Wednesday. Chang W. Lee/The New York TimesRobert E. Lee’s Name Was on the Menu. Now the Diner Is Shut Down.After a protester was killed in Omaha, activists demanding an end to racial injustice set their sights on police budgets — and a popular diner.After claims of a police cover-up, the case of Daniel Prude’s death in Rochester, N.Y., will go to a grand jury.A worker blasts graffiti from the pavement at Civic Center Park in Kenosha, Wis., Wednesday. Chang W. Lee/The New York TimesListen Closely, and You Will Hear Coaching During U.S. Open MatchesWith no fans in the seats this year, there is chatter galore between coaches and players on the court, even though it breaks the rules.Coaches and staff members are among the few people allowed in the stands. Danielle Parhizkaran/USA Today Sports, via ReutersThe U.S. Open Descends Into Pandemic Precaution ChaosThe top women’s doubles team was defaulted after yet another change in rules for players potentially exposed to the virus.Naomi Osaka, Novak Djokovic and more: Here are the matches to watch today.11 of Our Best Weekend ReadsJaguars in Argentina. Breonna Taylor. Wildfires. Chadwick Boseman. The U.S. Open. And more.Did you follow the headlines this week? Take our news quiz.OpinionMolly WorthenThe Trouble With EmpathyCan we really be taught to feel each other’s pain?Nicholas Kristof‘I Keep My Promises,’ Trump Said. Let’s Check.Here’s a report card on whether the president met his 2016 campaign pledges.The Editorial BoardHow Many of These 68,000 Deaths Could Have Been Avoided?Frank BruniThe Coronavirus May Change College Admissions ForeverRoss DouthatHow Many Lives Would a More Normal President Have Saved?Kitty Richards and Joseph E. StiglitzDoesn’t Feel Like a Recession? You Should Be Paying More in TaxesKrista DiamondThe Strange Grief of Losing My Sense of TasteDana CanedyMy Son Knows His Father Wasn’t a ‘Loser’ or a ‘Sucker’Sarah M. SeltzerGoodbye to Lord & Taylor, and the Way We Used to ShopJohn BederOp-Doc: Dying in Your Mother’s ArmsChristian Rodriguez‘Your Dad’s Not Feeling Well’Editors’ PicksAngie Wang5 Minutes That Will Make You Love the ViolinWe asked Hilary Hahn, John Adams, André Rieu and others to pick the music that moves them. Listen to their choices.‘Dwarf Pride’ Was Hard Won. Will a Growth Drug Undermine It?A new medication increases height in children with the most common form of dwarfism. But some say the condition is not a problem in need of a cure.Jenna Bush Hager, a Book Industry Insider With a New Title of Her OwnThe former first daughter, a force in publishing because of her book club, is the author of a new essay collection, “Everything Beautiful in Its Time.”AdvertisementContinue reading the main storyWe’d like your thoughts on the New York Times home page experience.Let us know what you thinkSite IndexSite Information Navigation© 2020 The New York Times CompanyNYTCoContact UsWork with usAdvertiseT Brand StudioYour Ad ChoicesPrivacyTerms of ServiceTerms of SaleSite MapHelpSubscriptions

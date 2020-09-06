@@ -1,0 +1,78 @@
+3.8.5 DocumentationNavigation
+
+index
+
+modules |
+
+Python »
+
+3.8.5 Documentation »
+    
+
+
+
+
+
+
+
+
+
+$('.inline-search').show(0);
+         |
+    
+Python 3.8.5 documentation
+  Welcome! This is the documentation for Python 3.8.5.
+  Parts of the documentation:What's new in Python 3.8?
+ or all "What's new" documents since 2.0Tutorial
+start hereLibrary Reference
+keep this under your pillowLanguage Reference
+describes syntax and language elementsPython Setup and Usage
+how to use Python on different platformsPython HOWTOs
+in-depth documents on specific topicsInstalling Python Modules
+installing from the Python Package Index & other sourcesDistributing Python Modules
+publishing modules for installation by othersExtending and Embedding
+tutorial for C/C++ programmersPython/C API
+reference for C/C++ programmersFAQs
+frequently asked questions (with answers!)Indices and tables:Global Module Index
+quick access to all modulesGeneral Index
+all functions, classes, termsGlossary
+the most important terms explainedSearch page
+search this documentationComplete Table of Contents
+lists all sections and subsectionsMeta information:Reporting bugsContributing to DocsAbout the documentationHistory and License of PythonCopyrightDownloadDownload these documentsDocs by version
+Python 3.10 (in development)
+Python 3.9 (pre-release)
+Python 3.8 (stable)
+Python 3.7 (security-fixes)
+Python 3.6 (security-fixes)
+Python 3.5 (security-fixes)
+Python 2.7 (EOL)
+All versions
+Other resources
+PEP Index
+Beginner's Guide
+Book List
+Audio/Visual Talks
+Python Developer’s Guide
+Navigation
+
+index
+
+modules |
+
+Python »
+
+3.8.5 Documentation »
+    
+
+
+
+
+
+
+
+
+
+$('.inline-search').show(0);
+         |
+    
+CopyrightPlease donate.Found a bugSphinx
