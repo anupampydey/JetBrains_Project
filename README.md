@@ -2,6 +2,7 @@
 Details of Jet Brains project successfully completed
 Added the following completed Projects -
 
-### Hangman
-### Rock-Paper-Scissors
-### Text-Based-Browser
+### Hangman Game
+### Rock-Paper-Scissors Game
+### Text-Based-Browser (Web Text Scraping)
+### Tic-Tac-Toe Game
