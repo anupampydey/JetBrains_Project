@@ -7,3 +7,4 @@ Added the following completed Projects -
 ### Text-Based-Browser (Web Text Scraping)
 ### Tic-Tac-Toe Game
 ### Smart Calculator
+### Password Hacker
