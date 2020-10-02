@@ -6,7 +6,8 @@ one of the most powerful features of Python. The program also develops a client 
 server using the socket module. In addition it also uses JSON and the time module. There are three different 
 stages of password hacking discussed below -
 
-**Hacking by way of combination of alphanumeric characters**
-**Hacking by way of using the most commonly used logins and passwords from text files**
-**Hacking by way of using the permutation of upper and lower case characters**
-**Hacking by way of catching the server exception and time delay of server**
+**Hacking by way of combination of alphanumeric characters**<br>
+**Hacking by way of using the most commonly used logins and passwords from text files**<br>
+**Hacking by way of using the permutation of upper and lower case characters**<br>
+**Hacking by way of catching the server exception and time delay of server**<br>
+
